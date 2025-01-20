@@ -3,8 +3,7 @@
 This project uses Tableau to analyze British Airways customer reviews and uncover insights into passenger experiences.  
 
 ## 📊 Dashboard Overview  
-![Dashboard](['https://github.com/Yash-Patil09/Tableau-End-to-End/blob/main/BA%20Review.jpg'])  
-*(Replace `path-to-your-image.jpg` with the actual path or URL of your dashboard image.)*  
+![Dashboard]['https://github.com/Yash-Patil09/Tableau-End-to-End/blob/main/BA%20Review.jpg']   
 
 ### Key Features:  
 - **Ratings Trends:** Explore average ratings over time (2016–2023).  
