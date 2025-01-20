@@ -1,19 +1,24 @@
-🔍 Overview
-The dashboard allows users to explore trends in:
+# 🛫 British Airways Review Analysis
 
-Ratings Over Time: How overall ratings changed month-by-month since 2016.
-Country Analysis: Regional differences in ratings and number of reviews.
-Aircraft Comparison: Average ratings across different aircraft models.
-Traveler and Seat Insights: Ratings based on traveler types and seat classes.
-📊 Dashboard Highlights
-Boeing 747 and 787 received the highest satisfaction scores (4.4).
-Ground service and value-for-money categories require improvement (3.0 and 2.8).
-Country-wise insights: India rated BA at 3.0 across 4 reviews.
-🛠️ How to Use
-Clone the repository and download the Tableau workbook file.
-Use Tableau Reader/Desktop to explore the visualizations.
-Dataset details: [Add dataset source here].
-🚀 Future Enhancements
-Adding sentiment analysis from text reviews.
-Expanding the dataset to include competitor airlines.
-Your suggestions and contributions are welcome!
+This project uses Tableau to analyze British Airways customer reviews and uncover insights into passenger experiences.  
+
+## 📊 Dashboard Overview  
+![Dashboard]("C:\Users\jayakiran\Downloads\tableau-end-to-end-portfolio-project-main\tableau-end-to-end-portfolio-project-main\BA Review.jpg")  
+*(Replace `path-to-your-image.jpg` with the actual path or URL of your dashboard image.)*  
+
+### Key Features:  
+- **Ratings Trends:** Explore average ratings over time (2016–2023).  
+- **Country Analysis:** Compare ratings by region and review count.  
+- **Aircraft Comparison:** Analyze satisfaction by aircraft type.  
+- **Traveler Insights:** Filter ratings by traveler and seat type.  
+
+## 🛠️ How to Use  
+1. Clone the repository.  
+2. Open the Tableau workbook using Tableau Reader/Desktop.  
+3. Explore the interactive dashboard.  
+
+## 🚀 Future Plans  
+- Add competitor analysis.  
+- Incorporate sentiment analysis from reviews.  
+
+**Suggestions and contributions are welcome!**
